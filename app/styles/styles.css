@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+	font-family: "Open Sans";
+	background-color: #241623;
+}
+
+header {
+	margin: 0;
+	height: 60vh;
+}
+
+i.material-icons {
+	color: #F4F4F4;
+	font-size: 2rem;
+}
+
+.toggle-navigation {
+	padding: 1rem;
+	display: block;
+	float: left;
+}
+
+.header_creator {
+	margin: 0 auto;
+	text-align: center;
+	padding: 1rem;
+	color: #FF6F61;
+	font-size: 1em;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 0.05em;
+}
+
+.header_main_text {
+	margin: 20vh auto;
+	text-align: center;
+	color: #F4F4F4;
+	font-size: 1.5rem;
+}
+
+h1.category-header {
+	color: #FF6F61;
+	font-size: 8rem;
+	line-height: 5rem;
+	font-weight: 800;
+	margin: 0;
+	margin-left: 0.5rem;
+	position: relative;
+}
+
+section {
+	height: 20vh;
+	background-color: white;
+}
