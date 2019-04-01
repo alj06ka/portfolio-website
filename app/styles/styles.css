@@ -43,8 +43,8 @@ h1.category-header {
 	font-size: 8rem;
 	line-height: 5rem;
 	font-weight: 800;
-	margin-top: 15vh;
 	margin: 0;
+	margin-top: 20vh;
 	margin-left: 4%;
 	position: relative;
 	z-index: 10;
@@ -54,7 +54,7 @@ h1.category-header {
 	margin: 0 4%;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
-	grid-template-rows: repeat(4, 50vh);
+	grid-template-rows: repeat(2, 70vh);
 
 }
 
@@ -106,6 +106,6 @@ article>section {
 
 	.container {
 		margin: 0;
-		grid-template-rows: repeat(4, 70vh);
+		grid-template-rows: repeat(3, 100vh);
 	}
 }
