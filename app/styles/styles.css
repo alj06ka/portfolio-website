@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	font-family: "Open Sans";
+	font-family: "Open Sans", sans-serif;
 	background-color: #241623;
 }
 
@@ -35,7 +35,9 @@ i.material-icons {
 	margin: 20vh auto;
 	text-align: center;
 	color: #F4F4F4;
-	font-size: 1.5rem;
+	font-size: 3.5rem;
+	font-weight: 300;
+	font-family: 'Open Sans', sans-serif;
 }
 
 h1.category-header {
