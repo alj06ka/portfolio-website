@@ -75,13 +75,17 @@ article>img {
 	z-index: 0;
 }
 
-.container-article {
+.container-block {
 	position: relative;
 }
 
 article>section {
 	z-index: 2;
 	margin: 4%;
+	width: 92%;
+}
+
+article>.section-absolute {
 	position: absolute;
 	text-align: center;
 }
