@@ -107,6 +107,55 @@ article>.section-absolute {
 	color: #F4F4F4;
 }
 
+.left-align {
+	text-align: left;
+}
+
+.text-dark-grey {
+	color: #202020;
+}
+
+.text-grey {
+	color: #333333;
+}
+
+.text-semibold {
+	font-family: "Open Sans Semibold", sans-serif;
+}
+
+.text-light {
+	font-family: "Open Sans Light", sans-serif; 
+}
+
+.text-input {
+	font-family: "Open Sans Light", sans-serif;
+	padding: 5px;
+	border-radius: 3px;
+	border: 1px solid #B1B1B1;
+	width: 50%;
+}
+
+.textarea {
+	resize: none;
+	width: 95%;
+	height: 15vh;
+}
+
+.send-button {
+	padding: 15px 20px;
+	background-color: #FF6F61;
+	color: #FFFFFF;
+	font-weight: 300;
+	font-size: 1rem;
+	border: solid 0px;
+	float: right;
+	margin: 2vh 3%;
+}
+
+.send-button:hover {
+	background-color: #FF2F1B;
+}
+
 @media screen and (max-width: 640px) {
 	.full-length {
 		grid-column-end: 2;
