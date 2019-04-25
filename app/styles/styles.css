@@ -119,6 +119,13 @@ article>.section-absolute {
 
 	article {
 		width: 100%;
-		height: 100vh;
+		min-height: 80vh;
 	}
+
+	.send-button {
+		float: none;
+		width: 97%;
+		margin: 0;
+	}
+
 }
