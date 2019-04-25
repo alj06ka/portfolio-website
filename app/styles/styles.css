@@ -6,7 +6,6 @@ body{
 
 header {
 	margin: 0;
-	height: 60vh;
 }
 
 i.material-icons {
@@ -63,7 +62,7 @@ article {
 	flex-grow: 1;
 	flex: flex-grow;
 	width: 45%;
-	height: 70vh;
+	min-height: 70vh;
 	background-color: #F4F4F4;
 }
 
