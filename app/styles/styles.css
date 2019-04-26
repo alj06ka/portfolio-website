@@ -73,6 +73,7 @@ article {
 	flex: flex-grow;
 	width: 45%;
 	min-height: 70vh;
+	max-height: 120vh;
 	background-color: #F4F4F4;
 }
 
