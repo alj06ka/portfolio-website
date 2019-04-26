@@ -96,21 +96,12 @@ article>section {
 }
 
 article>.section-absolute {
-	position: absolute;
+	display: inline-block;
 	text-align: center;
 }
 
 .full-length {
 	flex-grow: 2;
-}
-
-.case-item-bg {
-	background-size: cover;
-	background-repeat: no-repeat;
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	z-index: 0;
 }
 
 .text-white {
