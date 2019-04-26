@@ -8,6 +8,16 @@ header {
 	margin: 0;
 }
 
+a {
+	color: #FF6F61;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #CB493D;
+	text-decoration: underline;
+}
+
 i.material-icons {
 	color: #F4F4F4;
 	font-size: 2rem;
