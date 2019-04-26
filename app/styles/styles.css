@@ -165,6 +165,13 @@ article>.section-absolute {
 	background-color: #FF2F1B;
 }
 
+.full-post-header {
+	text-align: left;
+	font-size: 3rem;
+	margin-top: 0;
+	padding-top: 0;
+	font-weight: 300;
+}
 @media screen and (max-width: 640px) {
 	.full-length {
 		grid-column-end: 2;
