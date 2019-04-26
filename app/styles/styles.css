@@ -87,10 +87,16 @@ h1.category-header {
 article {
 	flex-grow: 1;
 	flex: flex-grow;
-	width: 45%;
+	width: 100%;
 	min-height: 70vh;
 	max-height: 120vh;
 	background-color: #F4F4F4;
+}
+
+.block-project {
+	width: 45%;
+	flex-grow: 1;
+	flex: flex-grow;
 }
 
 article>img {
