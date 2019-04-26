@@ -108,7 +108,9 @@ article>img {
 }
 
 .container-block {
-	position: relative;
+	display: block;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 article>section {
@@ -124,22 +126,6 @@ article>.section-absolute {
 
 .full-length {
 	flex-grow: 2;
-}
-
-.text-white {
-	color: #F4F4F4;
-}
-
-.left-align {
-	text-align: left;
-}
-
-.text-dark-grey {
-	color: #202020;
-}
-
-.text-grey {
-	color: #333333;
 }
 
 .text-semibold {
