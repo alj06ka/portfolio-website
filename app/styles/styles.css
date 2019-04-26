@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	font-family: "Open Sans", sans-serif;
-	background-color: #241623;
+	background-color: #FFF;
 }
 
 header {
@@ -35,7 +35,7 @@ a:hover {
 }
 
 i.material-icons {
-	color: #F4F4F4;
+	color: #1A1A1A;
 	font-size: 2rem;
 }
 
@@ -49,7 +49,7 @@ i.material-icons {
 	margin: 0 auto;
 	text-align: center;
 	padding: 1rem;
-	color: #EEEEEE;
+	color: #1A1A1A;
 	font-size: 1em;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -59,7 +59,7 @@ i.material-icons {
 .header_main_text {
 	margin: 30vh auto;
 	text-align: center;
-	color: #F4F4F4;
+	color: #1A1A1A;
 	font-size: 3rem;
 	font-weight: 300;
 }
